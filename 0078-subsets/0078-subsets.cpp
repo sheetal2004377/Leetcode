@@ -3,7 +3,7 @@ public:
     void solve(int ind,vector<int>&ds,vector<vector<int>>&ans,vector<int>&nums){
         if(ind==nums.size()){
             ans.push_back(ds);
-            return ;
+            return;
         }
         ds.push_back(nums[ind]);
         solve(ind+1,ds,ans,nums);
@@ -11,6 +11,7 @@ public:
         solve(ind+1,ds,ans,nums);
     }
     vector<vector<int>> subsets(vector<int>& nums) {
+        int n=nums.size();
         vector<vector<int>>ans;
         vector<int>ds;
         solve(0,ds,ans,nums);
