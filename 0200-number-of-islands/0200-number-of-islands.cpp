@@ -9,7 +9,7 @@ public:
         for(int i=0;i<4;i++){
             int nrow=row+delrow[i];
             int ncol=col+delcol[i];
-            while(nrow>=0&&nrow<n&&ncol>=0&&ncol<m&&!vis[nrow][ncol]&&grid[nrow][ncol]=='1'){
+            if(nrow>=0&&nrow<n&&ncol>=0&&ncol<m&&!vis[nrow][ncol]&&grid[nrow][ncol]=='1'){
                 dfs(nrow,ncol,vis,grid);
             }
         }
