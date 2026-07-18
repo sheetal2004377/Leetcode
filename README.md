@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sheetal2004377/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0090-subsets-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
