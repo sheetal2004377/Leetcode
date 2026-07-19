@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sheetal2004377/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0078-subsets) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/sheetal2004377/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetal2004377/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0022-generate-parentheses) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sheetal2004377/Leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sheetal2004377/Leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sheetal2004377/Leetcode/tree/master/1020-number-of-enclaves) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sheetal2004377/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
