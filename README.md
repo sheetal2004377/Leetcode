@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/sheetal2004377/Leetcode/tree/master/1029-two-city-scheduling) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetal2004377/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/sheetal2004377/Leetcode/tree/master/0127-word-ladder) |
 | [0394-decode-string](https://github.com/sheetal2004377/Leetcode/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheetal2004377/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetal2004377/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -88,12 +90,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sheetal2004377/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sheetal2004377/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sheetal2004377/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetal2004377/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sheetal2004377/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/sheetal2004377/Leetcode/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/sheetal2004377/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Hash Table
 |  |
 | ------- |
