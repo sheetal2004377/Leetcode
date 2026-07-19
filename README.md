@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/sheetal2004377/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/sheetal2004377/Leetcode/tree/master/0130-surrounded-regions) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/sheetal2004377/Leetcode/tree/master/0200-number-of-islands) |
 | [0503-next-greater-element-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/sheetal2004377/Leetcode/tree/master/0542-01-matrix) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/sheetal2004377/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sheetal2004377/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetal2004377/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
