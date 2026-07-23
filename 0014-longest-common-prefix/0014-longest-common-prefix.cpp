@@ -6,12 +6,10 @@ public:
         int minlen=strs[0].size();
         string ans="";
         for(int i=0;i<minlen;i++){
-            if(strs[0][i]==strs[n-1][i]){
-                ans+=strs[0][i];
-            }
-            else{
+            if(strs[0][i]!=strs[n-1][i]){
                 break;
             }
+            ans+=strs[0][i];
         }
         return ans;
     }
