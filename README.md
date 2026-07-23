@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/sheetal2004377/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sheetal2004377/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/sheetal2004377/Leetcode/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/sheetal2004377/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/sheetal2004377/Leetcode/tree/master/0394-decode-string) |
 | [0916-word-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0916-word-subsets) |
 | [1021-remove-outermost-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/1021-remove-outermost-parentheses) |
