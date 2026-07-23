@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/sheetal2004377/Leetcode/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/sheetal2004377/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/sheetal2004377/Leetcode/tree/master/0796-rotate-string) |
 | [0916-word-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0916-word-subsets) |
 | [1021-remove-outermost-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sheetal2004377/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/sheetal2004377/Leetcode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/sheetal2004377/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/sheetal2004377/Leetcode/tree/master/0542-01-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/sheetal2004377/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
