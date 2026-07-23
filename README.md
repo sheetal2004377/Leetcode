@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sheetal2004377/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/sheetal2004377/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sheetal2004377/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetal2004377/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/sheetal2004377/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sheetal2004377/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/sheetal2004377/Leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/sheetal2004377/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/sheetal2004377/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sheetal2004377/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/sheetal2004377/Leetcode/tree/master/0542-01-matrix) |
