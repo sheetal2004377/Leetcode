@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/sheetal2004377/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetal2004377/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/sheetal2004377/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/sheetal2004377/Leetcode/tree/master/0394-decode-string) |
 | [0916-word-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0916-word-subsets) |
 | [1021-remove-outermost-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetal2004377/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0127-word-ladder](https://github.com/sheetal2004377/Leetcode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/sheetal2004377/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0916-word-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0916-word-subsets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetal2004377/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
