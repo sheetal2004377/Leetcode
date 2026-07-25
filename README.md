@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sheetal2004377/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/sheetal2004377/Leetcode/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0503-next-greater-element-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/sheetal2004377/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sheetal2004377/Leetcode/tree/master/0733-flood-fill) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/sheetal2004377/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/sheetal2004377/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0416-partition-equal-subset-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/sheetal2004377/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/sheetal2004377/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/sheetal2004377/Leetcode/tree/master/0542-01-matrix) |
