@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sheetal2004377/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/sheetal2004377/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/sheetal2004377/Leetcode/tree/master/1029-two-city-scheduling) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sheetal2004377/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0916-word-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0916-word-subsets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sheetal2004377/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sheetal2004377/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetal2004377/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -314,11 +318,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sheetal2004377/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Database
 |  |
@@ -338,4 +344,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/sheetal2004377/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/sheetal2004377/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/sheetal2004377/Leetcode/tree/master/1934-confirmation-rate) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
