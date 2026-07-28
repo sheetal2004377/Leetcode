@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sheetal2004377/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/sheetal2004377/Leetcode/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/sheetal2004377/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0494-target-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/sheetal2004377/Leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/sheetal2004377/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0916-word-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0916-word-subsets) |
