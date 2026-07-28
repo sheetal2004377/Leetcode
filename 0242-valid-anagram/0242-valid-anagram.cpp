@@ -4,17 +4,16 @@ public:
         int n=s.size();
         int m=t.size();
         if(n!=m)return false;
-        unordered_map<char,int>mpp;
+        vector<int>freq(26,0);
         for(int i=0;i<n;i++){
-            mpp[s[i]]++;
+            freq[s[i]-'a']++;
         }
         for(int i=0;i<n;i++){
-            mpp[t[i]]--;
+            freq[t[i]-'a']--;
         }
-       for(auto it:mpp){
-        if(it.second>0)return false;
-       }
+        for(int i=0;i<26;i++){
+            if(freq[i]>0)return false;
+        }
         return true;
-        
     }
 };
