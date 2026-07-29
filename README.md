@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/sheetal2004377/Leetcode/tree/master/1029-two-city-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sheetal2004377/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sheetal2004377/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/sheetal2004377/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sheetal2004377/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sheetal2004377/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/sheetal2004377/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sheetal2004377/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sheetal2004377/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -368,4 +370,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/sheetal2004377/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
