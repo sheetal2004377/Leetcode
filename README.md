@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sheetal2004377/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sheetal2004377/Leetcode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/sheetal2004377/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/sheetal2004377/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sheetal2004377/Leetcode/tree/master/0509-fibonacci-number) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/sheetal2004377/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/sheetal2004377/Leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/sheetal2004377/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sheetal2004377/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheetal2004377/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetal2004377/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/sheetal2004377/Leetcode/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sheetal2004377/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
