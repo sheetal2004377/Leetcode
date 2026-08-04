@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/sheetal2004377/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sheetal2004377/Leetcode/tree/master/0062-unique-paths) |
+| [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/sheetal2004377/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/sheetal2004377/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sheetal2004377/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sheetal2004377/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/sheetal2004377/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sheetal2004377/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0916-word-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0916-word-subsets) |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sheetal2004377/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/sheetal2004377/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sheetal2004377/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetal2004377/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sheetal2004377/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sheetal2004377/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Depth-First Search
