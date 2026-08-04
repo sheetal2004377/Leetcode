@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sheetal2004377/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/sheetal2004377/Leetcode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/sheetal2004377/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sheetal2004377/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sheetal2004377/Leetcode/tree/master/0268-missing-number) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetal2004377/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/sheetal2004377/Leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/sheetal2004377/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/sheetal2004377/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sheetal2004377/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -394,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/sheetal2004377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -417,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/sheetal2004377/Leetcode/tree/master/1406-stone-game-iii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
