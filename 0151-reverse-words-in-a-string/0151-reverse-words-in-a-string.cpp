@@ -1,40 +1,40 @@
 class Solution {
 public:
-    string reverse(string &s){
-        int n=s.size();
-        int st=0;
-        int e=n-1;
-        while(st<=e){
-            swap(s[st],s[e]);
-            st++;
-            e--;
-        }
-        return s;
+   string reverse(string &s){
+    int st=0;
+    int e=s.size()-1;
+    while(st<=e){
+        swap(s[st],s[e]);
+        st++;
+        e--;
     }
+    return s;
+   }
     string reverseWords(string s) {
         int n=s.size();
-        int start=0;
-        int end=n-1;
-         s=reverse(s);
-       string ans="";
-       int i=0;
-       int st=0;
-       while(i<n){
-        while(i<n&&s[i]==' '){
-            i++;
-        }
-        if(i>=n)break;
+        s=reverse(s);
         string word="";
-        while(i<n&&s[i]!=' '){
-            word+=s[i];
-            i++;
+        int i=0;
+        while(i<n){
+             string ans="";
+               while(i<n&&s[i]==' '){
+                i++;
+            }
+             if(i>=n)break;
+            while(i<n&&s[i]!=' '){
+                ans+=s[i];
+                i++;
+            }
+          
+            
+            ans=reverse(ans);
+            if(!word.empty()){
+                word+=' ';
+            }
+            word+=ans;
         }
-        word=reverse(word);
-        if(!ans.empty()){
-         ans+=' ';
-        }
-        ans+=word;
-       }
-       return ans;
+        return word;
+
+        
     }
 };
