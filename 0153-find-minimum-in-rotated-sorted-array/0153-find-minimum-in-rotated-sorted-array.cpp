@@ -8,12 +8,13 @@ public:
         while(s<=e){
             int mid=s+(e-s)/2;
             if(nums[s]<=nums[mid]){
-                mini=min(nums[s],mini);
+                mini=min(mini,nums[s]);
                 s=mid+1;
             }
             else{
                 e=mid;
             }
+
         }
         return mini;
     }
