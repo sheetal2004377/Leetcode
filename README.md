@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/sheetal2004377/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1406-stone-game-iii](https://github.com/sheetal2004377/Leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sheetal2004377/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sheetal2004377/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sheetal2004377/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sheetal2004377/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sheetal2004377/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
