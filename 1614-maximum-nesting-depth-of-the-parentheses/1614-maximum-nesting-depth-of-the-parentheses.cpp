@@ -7,12 +7,13 @@ public:
         for(int i=0;i<n;i++){
             if(s[i]=='('){
                 cnt++;
-                maxi=max(cnt,maxi);
+                maxi=max(maxi,cnt);
             }
             else if(s[i]==')'){
                 cnt--;
             }
         }
         return maxi;
+        
     }
 };
