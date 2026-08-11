@@ -11,8 +11,9 @@ public:
                 s++;
                 e--;
             }
-            else if(nums[mid]>=nums[s]){
-                if(nums[mid]>target&&nums[s]<=target){
+            
+            else if(nums[s]<=nums[mid]){
+                if(nums[s]<=target&&nums[mid]>target){
                     e=mid-1;
                 }
                 else{
