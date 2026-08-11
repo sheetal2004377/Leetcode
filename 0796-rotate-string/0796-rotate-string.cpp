@@ -5,7 +5,7 @@ public:
         int m=goal.size();
         if(n!=m)return false;
         string temp=s+s;
-        return temp.find(goal)!=string::npos;
-    
+        return (temp.find(goal)!=string::npos);
+        
     }
 };
