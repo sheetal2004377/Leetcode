@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sheetal2004377/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/sheetal2004377/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/sheetal2004377/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sheetal2004377/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sheetal2004377/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sheetal2004377/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/sheetal2004377/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sheetal2004377/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sheetal2004377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sheetal2004377/Leetcode/tree/master/0242-valid-anagram) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheetal2004377/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sheetal2004377/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/sheetal2004377/Leetcode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/sheetal2004377/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/sheetal2004377/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sheetal2004377/Leetcode/tree/master/0283-move-zeroes) |
@@ -464,4 +467,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/sheetal2004377/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sheetal2004377/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sheetal2004377/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
