@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sheetal2004377/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/sheetal2004377/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/sheetal2004377/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sheetal2004377/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/sheetal2004377/Leetcode/tree/master/0189-rotate-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sheetal2004377/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sheetal2004377/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/sheetal2004377/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sheetal2004377/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetal2004377/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sheetal2004377/Leetcode/tree/master/0020-valid-parentheses) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sheetal2004377/Leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sheetal2004377/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/sheetal2004377/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/sheetal2004377/Leetcode/tree/master/0073-set-matrix-zeroes) |
